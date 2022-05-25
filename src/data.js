@@ -1,6 +1,8 @@
 import netflixClone from './Img/cloneNetFlix.png';
 import apiTmdb from './Img/api-tmdb.png';
 import StarWars from './Img/starwars.png';
+import Rotina from './Img/rotina.png';
+import AppMercado from './Img/app-mercado.png';
 
 export const products = [
   {
@@ -17,5 +19,15 @@ export const products = [
     id: 3,
     img: netflixClone,
     link: 'https://github.com/guilhermennf/netflix-clone',
+  },
+  {
+    id: 4,
+    img: Rotina,
+    link: 'https://github.com/guilhermennf/organizacao-de-rotina',
+  },
+  {
+    id: 5,
+    img: AppMercado,
+    link: 'https://github.com/guilhermennf/App-mercado',
   },
 ];

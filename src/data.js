@@ -3,6 +3,7 @@ import apiTmdb from './Img/api-tmdb.png';
 import StarWars from './Img/starwars.png';
 import Rotina from './Img/rotina.png';
 import AppMercado from './Img/app-mercado.png';
+import Buscador from './Img/buscadorcep.png';
 
 export const products = [
   {
@@ -29,5 +30,10 @@ export const products = [
     id: 5,
     img: AppMercado,
     link: 'https://github.com/guilhermennf/App-mercado',
+  },
+  {
+    id: 6,
+    img: Buscador,
+    link: 'https://github.com/guilhermennf/buscador-cep',
   },
 ];

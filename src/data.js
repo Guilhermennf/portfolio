@@ -1,15 +1,15 @@
-import netflixClone from './Img/cloneNetFlix.png';
 import apiTmdb from './Img/api-tmdb.png';
 import StarWars from './Img/starwars.png';
 import Rotina from './Img/rotina.png';
 import AppMercado from './Img/app-mercado.png';
 import Buscador from './Img/buscadorcep.png';
+import Lista from './Img/lista-app.png';
 
 export const products = [
   {
     id: 1,
-    img: StarWars,
-    link: 'https://github.com/guilhermennf/App-starwars-movies',
+    img: Rotina,
+    link: 'https://github.com/guilhermennf/organizacao-de-rotina',
   },
   {
     id: 2,
@@ -18,18 +18,18 @@ export const products = [
   },
   {
     id: 3,
-    img: netflixClone,
-    link: 'https://github.com/guilhermennf/netflix-clone',
+    img: Lista,
+    link: 'https://github.com/guilhermennf/tableapp',
   },
   {
     id: 4,
-    img: Rotina,
-    link: 'https://github.com/guilhermennf/organizacao-de-rotina',
+    img: StarWars,
+    link: 'https://github.com/guilhermennf/app-starwars-movies',
   },
   {
     id: 5,
     img: AppMercado,
-    link: 'https://github.com/guilhermennf/App-mercado',
+    link: 'https://github.com/guilhermennf/app-mercado',
   },
   {
     id: 6,

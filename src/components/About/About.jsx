@@ -18,10 +18,10 @@ const About = () => {
                 <p className="a-sub">Desenvolvedor Front-end</p>
                 <p className="a-desc">
                     Me chamo Guilherme Nunes, tenho 19 anos e formei no ensino
-                    médio em 2020 na pandemia, no inicio de 2021 comecei a
-                    cursar inglês na UPTIME, e em junho de 2021, comecei a
-                    cursar técnico em desenvolvimento de sistemas no Senai, e
-                    desde então venho descobrindo cada dia mais sobre o mundo da
+                    médio em 2020 na pandemia. No inicio de 2021 comecei a
+                    cursar inglês na UPTIME, e em junho, comecei a cursar
+                    técnico em desenvolvimento de sistemas no Senai, e desde
+                    então venho descobrindo cada dia mais sobre o mundo da
                     tecnologia, no momento estou desenvolvendo em React e estou
                     em busca da minha primeira oportunidade no mercado.
                 </p>
